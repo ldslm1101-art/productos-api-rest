@@ -28,7 +28,7 @@ La arquitectura sigue un diseño profesional en capas:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [URL-DE-TU-REPOSITORIO-GITHUB]
+    git clone [[URL-DE-TU-REPOSITORIO-GITHUB]](https://github.com/ldslm1101-art/productos-api-rest/tree/0e416723d53d0157ffa61135369b38e9335dff0c)
     cd producto-api
     ```
 
@@ -93,3 +93,6 @@ A continuación, se demuestran las pruebas y el funcionamiento de la API:
 
 ### Consola H2 con Datos Persistidos
 ![Prueba H2](./screenshots/H2-DATOS.png)
+Autor: Lautaro Montenegro
+Legajo: 51208
+mail: lds.lm1101@gmail.com
